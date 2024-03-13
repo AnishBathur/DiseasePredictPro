@@ -1,1 +1,0 @@
-streamlit run "C:\Users\smyde\OneDrive\Desktop\Multiple Disease Predictor\Multiple_Disease_Predictor.py"

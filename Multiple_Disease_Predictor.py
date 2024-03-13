@@ -8,7 +8,10 @@ This is a temporary script file.
 
 import pickle
 import streamlit as st
-from streamlit_option_menu import option_menu
+from streamlit_option_menu import option_menu  
+
+
+
 
 diabetes_model=pickle.load(open('C:/Users/smyde/OneDrive/Desktop/Multiple Disease Predictor/SavedModels/diabetes_model.sav','rb'))
 heart_disease_model=pickle.load(open('C:/Users/smyde/OneDrive/Desktop/Multiple Disease Predictor/SavedModels/heart_disease_model.sav','rb'))
